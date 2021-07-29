@@ -1,4 +1,4 @@
-f = open("4203.txt")
+f = open("27-69a.txt")
 n = int(f.readline())
 cols = 10
 rows = 7
